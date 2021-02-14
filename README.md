@@ -1,2 +1,1 @@
-# Assignment_6_fancy_slider
-# Assignment_6_fancy_slider
+Live: https://jahid101.github.io/Assignment_6_fancy_slider/
